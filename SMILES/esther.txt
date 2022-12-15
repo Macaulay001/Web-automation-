@@ -1,0 +1,47 @@
+LIPINSKINY SCORE
+Terpineol ???
+Thymol Yes; 0 violation   bioavalability score 0.55
+Thymol methyl ether Yes; 0 violation   bioavalability score 0.55
+Carvacrol Yes; 0 violation   bioavalability score 0.55
+Copaene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+Elemene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+Elemene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+guaiene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+farnesene ; violation   bioavalability score 
+germacrene D Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+selinene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+selinene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+selinene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+7-episelinene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+-cadinene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+bourbunene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+trans-bergamotene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+caryophyllene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+caryophyllene oxide Yes; 0 violation   bioavalability score 0.55
+humulene Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+12- epoxydehumulene" Yes; 0 violation   bioavalability score 0.55
+37(11)eudesmadiene" Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+geraniol Yes; 0 violation   bioavalability score 0.55
+palmitic acid Yes; 1 violation: MLOGP>4.15   bioavalability score 0.85
+apigenin 7-4-dimethyl ether Yes; 0 violation   bioavalability score 0.55
+methyl acetate
+vicenin2 No; 3 violations: MW>500, NorO>10, NHorOH>5   bioavalability score 0.17
+isothymusin Yes; 0 violation   bioavalability score 0.55
+nictoflorin No; 3 violations: MW>500, NorO>10, NHorOH>5   bioavalability score 0.17
+l-caftaric acid Yes; 0 violation   bioavalability score 0.11
+Hyperoside No; 2 violations: NorO>10, NHorOH>5   bioavalability score 0.17
+apigetrin Yes; 1 violation: NHorOH>5   bioavalability score 0.55
+eugenyl-?-D-glucopyranoside No; 2 violations: MW>500, NorO>10   bioavalability score 0.17
+L-chicoric acid Yes; 0 violation   bioavalability score 0.11
+?-sitosterol Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+citral Yes; 0 violation   bioavalability score 0.55
+vicenin2 No; 3 violations: MW>500, NorO>10, NHorOH>5   bioavalability score 0.17
+isothymusin Yes; 0 violation   bioavalability score 0.55
+nictoflorin No; 3 violations: MW>500, NorO>10, NHorOH>5   bioavalability score 0.17
+l-caftaric acid Yes; 0 violation   bioavalability score 0.11
+Hyperoside No; 2 violations: NorO>10, NHorOH>5   bioavalability score 0.17
+apigetrin Yes; 1 violation: NHorOH>5   bioavalability score 0.55
+eugenyl-?-D-glucopyranoside No; 2 violations: MW>500, NorO>10   bioavalability score 0.17
+L-chicoric acid Yes; 0 violation   bioavalability score 0.11
+?-sitosterol Yes; 1 violation: MLOGP>4.15   bioavalability score 0.55
+citral Yes; 0 violation   bioavalability score 0.55
