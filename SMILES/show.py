@@ -30,3 +30,16 @@ for row in non_empty_rows:
 # Save the cleaned up version of the workbook to the new sheet
 cleaned_worksheet.title = cleaned_data_sheet_name
 workbook.save('example_cleaned.xlsx')
+
+
+
+for row in non_empty_rows:
+    cleaned_row = []
+    for cell in row:
+        cleaned_row.append(cell.value)
+        # Update the formula bar links to match the rows and columns format of the new sheet
+        if cell.data_type == 'f':
+            cleaned_cell = cleaned_worksheet.cell(row=len(non_empty_rows)+1, column=cell.column)
+            cleaned_cell.value = cell.value
+            cleaned_cell.coordinate = cleaned_cell.column_letter + str(len(non_empty_rows)+1)
+    cleaned_worksheet.append(cleaned_row)
