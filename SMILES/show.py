@@ -32,10 +32,17 @@ cleaned_worksheet.title = cleaned_data_sheet_name
 workbook.save('example_cleaned.xlsx')
 
 
-
-f cell.data_type == 'f':
-            cleaned_cell = cleaned_worksheet.cell(row=row_idx+1, column=cell.column)
-            new_formula = cell.value.replace(cell.coordinate, cleaned_cell.coordinate)
-            cleaned_cell.value = new_formula
+for row in non_empty_rows:
+    cleaned_row = []
+    for cell in row:
+        if cell.data_type == 's':
+            cleaned_row.append(cell.value)
+        else:
+            cleaned_row.append(cell.value)
+            # Update the formula bar links to match the rows and columns format of the new sheet
+            if cell.data_type == 'f':
+                cleaned_cell = cleaned_worksheet.cell(row=len(non_empty_rows)+1, column=cell.column)
+                cleaned_cell.value = cell.value
+                cleaned_cell.coordinate = cleaned_cell.column_letter + str(len(non_empty_rows)+1)
     cleaned_worksheet.append(cleaned_row)
 
